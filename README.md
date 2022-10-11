@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miromir237
-- 👀 I’m interested in Python/Ansible/RPi/Miniquads
-- 🌱 I’m currently learning Python/Ansible
-- 💞️ I’m looking to collaborate on Python/Ansible/Miniquads
+- 👀 I’m interested in SvelteKit/Python/Ansible/RPi/Miniquads
+- 🌱 I’m currently learning SvelteKit/Python/Ansible
+- 💞️ I’m looking to collaborate on SvelteKit/Python/Ansible/Miniquads
 - 📫 How to reach me ...
 
 <!---
