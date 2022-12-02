@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miromir237
+- 👋 Hi, I’m Miroslav
 - 👀 I’m interested in SvelteKit/Python/Ansible/RPi/Miniquads
 - 🌱 I’m currently learning SvelteKit/Python/Ansible
 - 💞️ I’m looking to collaborate on SvelteKit/Python/Ansible/Miniquads
